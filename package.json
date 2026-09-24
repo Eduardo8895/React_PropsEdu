@@ -1,16 +1,16 @@
 {
-  "name": "atividade",
+  "name": "Atv_Props+React",
   "version": "1.0.0",
-  "description": "atividade aula pw2",
-  "homepage": "https://github.com/Peixinss/PW2#readme",
+  "description": "React Props do Edu",
+  "homepage": "https://github.com/Eduardo8895/React_PropsEdu#readme",
   "bugs": {
-    "url": "https://github.com/Peixinss/PW2/issues"
+    "url": "https://github.com/Eduardo8895/React_PropsEdu/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Peixinss/PW2.git"
+    "url": "git+https://github.com/Eduardo8895/React_PropsEdu.git"
   },
-  "author": "Renan",
+  "author": "Eduardo8895",
   "type": "module",
   "main": "index.js",
   "scripts": {
